@@ -1,0 +1,12 @@
+Document the actual rebuilt project setup.
+
+Do not commit:
+
+Google API keys
+Stripe secret keys
+JWT secrets
+Database passwords
+
+Create:
+
+.env.example
