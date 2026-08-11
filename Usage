@@ -1,0 +1,17 @@
+Document actual application screens and user flow.
+
+Example:
+
+Launch Application
+        ↓
+Authentication
+        ↓
+Select Location
+        ↓
+Enter Destination
+        ↓
+Map Workflow
+        ↓
+Ride Workflow
+        ↓
+Payment
