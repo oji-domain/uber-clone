@@ -1,0 +1,11 @@
+Ride-sharing applications require coordination across:
+
+User interface
+Authentication
+Location
+Mapping
+Destination search
+Backend data
+Payment workflow
+
+This project explores those integrations in a mobile application.
